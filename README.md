@@ -1,6 +1,6 @@
 # Hórus Core
 
-Projeto acadêmico de aplicativo desenvolvido no programa Trilhas do Futuro – MG.
+Projeto acadêmico por autoria de Talita Cridtina de aplicativo desenvolvido no programa Trilhas do Futuro – MG.
 
 ## 📌 Sobre o aplicativo
 Hórus Core é um aplicativo de gestão empresarial voltado para organização de empresas, colaboradores, clientes e serviços, com foco em controle de informações e processos internos.
